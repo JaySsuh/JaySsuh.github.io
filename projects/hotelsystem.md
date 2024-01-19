@@ -16,4 +16,4 @@ The goal of this project was to create a hotel management system, where we would
 Here is some code that illustrates the differnet types of options we are able to include in our hotel booking system:
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/hotel.png" class="img-thumbnail" >
+  <img width="400px" src="../img/hotel.png" class="img-thumbnail" >
