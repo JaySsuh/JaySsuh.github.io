@@ -16,6 +16,7 @@ The goal of this project was to create a hotel management system, where we would
 Here is some code that illustrates the differnet types of options we are able to include in our hotel booking system:
 
 ```cpp
+
 Room Room::addRoom(int rno) { //addRoom function for room details
     Room room;
     room.roomNumber = rno;
