@@ -17,25 +17,24 @@
     { "name": "Software Engineering" },
     { "name": "Working out" },
     { "name": "Cooking" },
-    { "name": "Soccer" },
-    { "name": "Cats" }
+    { "name": "Soccer" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "VScode", "Git/GitHub", "g++", "Eclipse" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +42,40 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Floater, Quiora",
+      "position": "Quiora",
+      "website": "https://www.quiorawaikiki.com",
+      "startDate": "2023-02-18",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Maintain the entire dining room, making sure guests are happy.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Making sure guest needs are fulfilled, waters are always topped off and food is immediately served",
+        "Maintain the entire dining room, making sure there are empty plates or dirty tables"
       ]
     },
+    "Activities": [
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "title": "Varsity team captain for the boys varsity team",
+      "position": "School air riflery varsity",
+      "startDate": "During my junior and senior year of highschool",
+      "summary": "I was in charge of the entire boys team roster for both Junior Varsity and Varsity.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Setting an example for the upcoming team member, teaching and showing them the ropes.",
+        "Come in early to help coaches set up and leave later to help coaches break down and put away equipment."
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2022-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Third place",
+      "date": "2021-12-08",
+      "awarder": "Hawaii High School Athletic Association",
+      "summary": "I placed top 3 in the state of Hawaii for air riflery."
     }
   ],
   "references": [
