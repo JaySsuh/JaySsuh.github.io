@@ -14,4 +14,4 @@ But looking back, it is one of my fondest memories as a child, and even into my 
 And taekwondo was one of the topics that I fully mastered and fully understood, so I could better relay the information to children who aren't the greatest at understanding.
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/tae.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/tae.jpg" class="img-thumbnail" >
