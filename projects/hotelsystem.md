@@ -15,21 +15,5 @@ The goal of this project was to create a hotel management system, where we would
 
 Here is some code that illustrates the differnet types of options we are able to include in our hotel booking system:
 
-```cpp
-
-Room Room::addRoom(int rno) { //addRoom function for room details
-    Room room;
-    room.roomNumber = rno;
-    std::cout << "\nType AC/Non-AC (A/N) : ";
-    std::cin >> room.ac;
-    std::cout << "\nType Comfort (S/N) : ";
-    std::cin >> room.type;
-    std::cout << "\nType Size (B/S) : ";
-    std::cin >> room.stype;
-    std::cout << "\nDaily Rent : ";
-    std::cin >> room.rent;
-    ++Room::count; //updates static count
-    Room::rooms[Room::count - 1] = room; //adds new room to array
-    std::cout << "\n Room Added Successfully!";
-    return room;
-}
+<div class="text-center p-4">
+  <img width="200px" src="../img/hotel.png" class="img-thumbnail" >
