@@ -3,11 +3,10 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Hotel Management"
-date: 2015
+date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
+  - computer programming
   - C++
 summary: "It is a hotel management system, it is intended to create, manage, and book different types of rooms with different types of price points."
 ---
