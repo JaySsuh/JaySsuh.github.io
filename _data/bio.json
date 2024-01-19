@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JaySsuh", "url": "http://github.com/JaySsuh" },
-      { "network": "linkedin", "username": "Jay Suh", "url": "www.linkedin.com/in/jaySsuh" }
+      { "network": "linkedin", "username": "Jay Suh", "url": "http://linkedin.com/in/jaySsuh" }
     ]
   },
   "interests": [
