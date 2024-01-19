@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/taekwondo.png
+image: img/taekwondo.jpg
 title: "TaekwonDO"
 date: 2024
 published: true
