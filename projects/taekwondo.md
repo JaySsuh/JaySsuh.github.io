@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/taekwondo.png
-title: "Taekwondo, what could've been"
+title: "TaekwonDO"
 date: 2024
 published: true
 labels:
