@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/taekwondo.jpg
+image: img/taekwondo.png
 title: "Taekwondo, what could've been"
 date: 2024
 published: true
