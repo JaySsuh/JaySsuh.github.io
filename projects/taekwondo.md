@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/taekwondo.jpg
 title: "Taekwondo, what could've been"
 date: 2024
 published: true
