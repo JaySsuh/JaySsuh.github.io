@@ -4,7 +4,7 @@ type: essay
 title: "javascript experience"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: false
+published: true
 labels:
   - javascript
   - software engineering
