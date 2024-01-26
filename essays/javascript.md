@@ -6,7 +6,9 @@ title: "javascript experience"
 date: 2024-01-17
 published: false
 labels:
-  - engineering
+  - javascript
+  - software engineering
+  - coding
 ---
 
 
