@@ -9,7 +9,7 @@ labels:
   - Forums
   - Questions
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/download.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/download.jpg">
 
 For Software engineers, asking specific and well rounded questions will often get you a coherent answer, as having an obscure question that leaves interpretation to the reader often results in an ambiguous answer. Smart questions result in smart answers, likewise stupid questions will result in stupid answers. Generally smart questions cover all bases so nothing is left ambiguous for a higher chance of getting an answer that you actually want. For software engineers getting an ambiguous answer for your questions can and will get you even more lost, or at the very least lead you to the wrong answer, so you would always want to ask specific, accurate questions to what you’re looking for, having examples such as pictures and showing your code, where you went wrong also helps the reader understand what you’re are stuck on.
 
