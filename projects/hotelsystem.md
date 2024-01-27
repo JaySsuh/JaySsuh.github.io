@@ -10,8 +10,9 @@ labels:
   - C++
 summary: "It is a hotel management system, it is intended to create, manage, and book different types of rooms with different types of price points."
 ---
-<img width="1000px" src="../img/hotel.jpg" >
 
+
+<img width="1000px" src="../img/hotel.jpg" >
 
 The goal of this project was to create a hotel management system, where we would create rooms with specific instructions such as, a room with A/C or no A/C, a room with a large or small bed, comfort of said room, and finally the daily rate that we as a hotel would charge the guest per day. We also would like to keep guest information into our booking system, in case they would like to come back to stay at our hotel again. We take information such as first and last name, their phone number. their address, as well as the room that they are currently staying in. If we do encounter complaints from the customer or any other customer, we could also just call up on the guests name, or their room number to pull up their details for the guest. When all is done, we are able to calculate the daily rate that is owed to us subtracted by the down payment made by the guest on arrival, and if the room were to encounter any problems, we could always remove the room from our books, so no guests are able to rent it.
 
