@@ -64,6 +64,5 @@ Here is some code that illustrates the librarian inputting the book, and filling
     
       std::cout << "Book added successfully!" << std::endl;
     }
-
   
-https://github.com/JaySsuh/library-management/tree/main
+you can learn more about the code at https://github.com/JaySsuh/library-management/tree/main
