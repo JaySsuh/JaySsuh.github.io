@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "javascript experience"
+title: "live, laugh, javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
