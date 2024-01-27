@@ -10,7 +10,7 @@ labels:
   - software engineering
   - coding
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/download1.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/download1.jpg">
 
 
 Since this is my first time learning about Javascript, I had no idea what I was expecting, I thought it would be the same as if not very similar to Java, but after experiencing it and coding with it I realized that it’s a lot more complex than I originally expected, however, at the same time it somehow feels a lot simpler to use than other languages that I’ve experienced so far. There are a lot more shorthands that I can make use of compared to Java or C, nor is it as gimmicky as something like Python, where indentation can make or break your code. Granted, I haven’t had much experience using Javascript, as it has only been about 2 weeks since I first learned about it, but within those 2 weeks, I feel as though I’ll be able to come to enjoy and understand how to use it better than prior languages that have been taught to me.
