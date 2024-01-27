@@ -9,7 +9,7 @@ labels:
   - Javascript
   - interests
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/yay.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/yay.jpg">
 
 
 Software engineering sparked an interest in me, due to the main aspects of problem solving, and a way to practice my quick thinking skills. Since I am interested in the security science industry, and industry that is mostly if not all problem solving skills, I felt that the best way to excel in that field was to improve my problems solving skills, what better way to practice than to learn how to problem solve, because how else would I be able to solve and fix the code that other people wrote, when I myself am unable to write the code either. So learning how to program larger scale projects efficiently, means I would know what to look for in other people’s code.
