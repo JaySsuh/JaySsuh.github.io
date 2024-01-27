@@ -17,7 +17,7 @@ The goal of this project was to create a library system, where we can easily cat
 
 My part in this somewhat large coding assignment was to work on the book class, finishing the protected variables, and most of the public constructors using getters and setters. This project was one of the first projects where I had to work with my fellow classmates in order to tackle, from what I thought at the time was a large scale project. Since I was still relatively new to C/C++ this was a great learning experience about the language and how to work with others on a project.
 
-Here is some code that illustrates the librarian inputting the book, and filling out all of the specific categories of the book:
+Here is some code that illustrates the librarian inputting the book, and filling out all of the specific categories of the book, asking the user questions in order to categorize the book into its proper genres:
 
       void addBook(std::vector<Book *> &library) {
       int isbn, edition;
