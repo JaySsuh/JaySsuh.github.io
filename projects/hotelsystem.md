@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotel.jpg
+image: img/hotel1.jpg
 title: "Hotel Management"
 date: 2024
 published: true
