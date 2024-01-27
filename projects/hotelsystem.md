@@ -33,5 +33,5 @@ Here is some code that illustrates how the manager would input the room details,
         std::cout << "\n Room Added Successfully!";
         return room;
     }
-    
-https://github.com/JaySsuh/hotel/tree/main
+
+You can learn more about the [hotel managing system](https://github.com/JaySsuh/hotel/tree/main).
