@@ -54,6 +54,14 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "company": "Key Club",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "A highschool club focused on community service, where members are able to sign up on their own and better the community"
+    }
+  ],
   "Activities": [
     {
       "title": "Varsity team captain",
@@ -68,7 +76,7 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Academic Merit Scholarship",
       "date": "2022-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
