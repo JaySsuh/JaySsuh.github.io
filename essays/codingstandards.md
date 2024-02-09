@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Software Engineering
 ---
-<img width="500px" src="../img/standards.png" >
+<img width="300px" src="../img/standards.png" >
 
 ## Have I had experience?
 Given that this is my first time using ESLint and IntelliJ, as well as my first time being conscious about coding standards, I currently believe it to be trivial for the most part, such as needing to have an extra line at the end of the code, needing a space before each bracket opening, and counting the number of spaces in the indentation at the start of a new line. I think it’s very superficial to be mindful about having an extra line at the end of my code, since it won’t change my code itself, I am personally a strong believer that as long as the code runs and gets the job done, in a timely and efficient manner, the structure and format of the program shouldn’t matter as much. However, for some parts of the coding standards I do believe it to be beneficial in the long run,such as commenting on your code, indentations in your loops to make them more coherent, which helps especially when you are working on a large project or working with other people on the same project, it helps the reader(s) understand what the code is talking about better. But, I still do strongly believe that a main focus of a programmer shouldn’t be the coding standards, I don’t think that having a space right before an opening bracket or a space before and after the use a comma shouldn’t be the reason the code doesn’t run, I think indentations matter to an extent, but not the point where someone should go out of their way to correctly reformat their entire project.
