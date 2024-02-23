@@ -10,7 +10,7 @@ labels:
   - CSS
   - Software Engineering
 ---
-<img width="700px" class="rounded float-start pe-4" src="../img/download1.jpg">
+<img width="700px" class="rounded float-start pe-4" src="../img/WOD.png">
 
 ## Hows UI Frameworks so far?
 Yes, sure UI Frameworks isn’t an easy thing to learn how to use, and to make matters worse we have to learn how to use Bootstrap 5?! Perchance. But in my opinion I do think that it makes my life easier when coding websites, I couldn’t even begin to imagine how difficult it would be to create a navbar?! Using just CSS and HTML. Besides the obvious time that it would save in the long run, it would also save tons of space and our code (hopefully) won’t look messy and hectic. Yes, you could attain the same results by just using HTML and CSS, but that would be too easy. We want to suffer, until it becomes second nature, and then we realize how much easier and more useful it is than just brute forcing everything with HTML. 
