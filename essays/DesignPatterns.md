@@ -8,6 +8,8 @@ published: true
 labels:
   - HTML
   - CSS
+  - javascript
+  - coding
   - Software Engineering
 ---
 <img width="700px" class="rounded float-start pe-4" src="../img/WOD.png">
