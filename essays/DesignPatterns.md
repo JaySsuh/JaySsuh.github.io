@@ -12,7 +12,7 @@ labels:
   - coding
   - Software Engineering
 ---
-<img width="700px" class="rounded float-start pe-4" src="../img/WOD.png">
+<img width="700px" class="rounded float-start pe-4" src="../img/design.jpg">
 
 
 	Hypothetically, let's assume that someone is forgetful and is always forgetting something to grab when leaving the house, oops you forgot your phone, then you go back to grab it only to forget your wallet, so you head back inside and now you’ve forgotten your keys. Well now you’re locked outside but at least you have your wallet and phone! With design patterns the only thing that you can forget is all of your problems, with our solutions that can solve all of your needs and problems. Keeping everything in one organized place would solve all one's worries of having a messy house, losing track of where you put things, and most importantly forgetting things in the house will no longer be an issue! A reusable solution that solves most of life's common problems, that’s what design patterns strive to obtain.
