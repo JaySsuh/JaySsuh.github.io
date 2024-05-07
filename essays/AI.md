@@ -10,6 +10,8 @@ labels:
   - Coding
 ---
 
+<img width="400px" class="rounded float-start pe-4" src="../img/AI.png">
+
 ### I. Introduction
 The popularity, usage, and the functionality has skyrocketed especially as of right now, where the development of AI is at its peak. Where before it would take hours to finish a single assignment, now takes one or two minutes by asking the AI a couple of questions. Coding has never been easier than it is now, especially software engineering, sure AI can’t make the entire project for you, hours of research can now be saved just by asking the AI one or 2 questions. With the rise of AI self learning concepts have never been easier, and doing trivial homework can also be completed within a matter of minutes. In 314 especially during WODS where speed was important, chatGPT was a last resort when I couldn’t seem to get the code to work and time was nearing the end. Also falling behind wasn’t an issue because teaching myself the topics that I’ve missed was as simple as typing in the topic and any questions that I had regarding it, and the best part about it was that since it wasn’t a human there was no worry about asking simple, trivial, or bombarding them with questions.
 
