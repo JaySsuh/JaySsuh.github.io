@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "I think therefore I AM"
+title: "Final nAIl in the coffin"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-06
 published: true
