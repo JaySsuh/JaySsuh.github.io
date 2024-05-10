@@ -10,7 +10,7 @@ labels:
   - Coding
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/AI.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/software.png">
 
 ### What I thought
 At first I came into this class thinking, yeah a class where I just create websites and have tons or projects that I have to do. I genuinely believed that this class was a very project oriented class, I have never been more incorrect about this class, sure the main focus of the class was to create websites and develop apps, but there was more in depth about concepts such as ethics, and standards that programmers have to uphold.
