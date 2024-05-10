@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final nAIl in the coffin"
+title: "software end is nearing"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-09
 published: true
