@@ -4,7 +4,7 @@ type: essay
 title: "smart questions or fart questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: true
+published: false
 labels:
   - Forums
   - Questions
