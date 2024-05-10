@@ -4,7 +4,7 @@ type: project
 image: img/taekwondo.jpg
 title: "TaekwonDO"
 date: 2024
-published: true
+published: false
 labels:
   - Taekwondo
 summary: "I used to hate going to taekwondo, I would have to be dragged by my family to go, but now I do sort of miss going."
