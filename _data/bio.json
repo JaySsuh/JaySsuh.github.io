@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "VScode", "Git/GitHub", "g++", "Eclipse" ]
+      "keywords": [ "VScode", "Git/GitHub", "Eclipse", "IntelliJ" ]
     }
   ],
   "education": [
