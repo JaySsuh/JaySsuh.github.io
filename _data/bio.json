@@ -14,10 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
+    { "name": "Skating" },
+    { "name": "Coding" },
     { "name": "Working out" },
-    { "name": "Cooking" },
-    { "name": "Soccer" }
+    { "name": "Animals" },
+    { "name": "Volleyball" }
   ],
   "skills": [
     {
