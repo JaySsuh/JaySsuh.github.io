@@ -4,7 +4,7 @@ type: project
 image: img/portfolioHome.png
 title: "Art Portfolio"
 date: 2025
-published: false
+published: true
 labels:
   - computer programming
   - CSS
