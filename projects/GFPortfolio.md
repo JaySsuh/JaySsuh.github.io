@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/portfolioHome
 title: "Art Portfolio"
 date: 2025
 published: false
