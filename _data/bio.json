@@ -3,11 +3,11 @@
     "name": "Jay Suh",
     "label": "Student",
     "picture": "https://github.com/JaySsuh.png",
-    "email": "jsuh4444@hawaii.edu",
+    "email": "suhjay11@gmail.com",
     "phone": "808-341-6436",
     "website": "https://JaySsuh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Studied Computer Science at University of Hawaii at Manoa, but now double majoring Computer Science and Data Analytics at Texas State University. Expected graduation: May 2026.",
+    "location": { "address": "1975 aquarena springs Dr", "postalCode": "78666", "city": "San Marcos", "countryCode": "USA", "region": "Texas" },
     "profiles": [
       { "network": "github", "username": "JaySsuh", "url": "http://github.com/JaySsuh" },
       { "network": "linkedin", "username": "Jay Suh", "url": "http://linkedin.com/in/jaySsuh" }
@@ -17,13 +17,13 @@
     { "name": "Skating" },
     { "name": "Coding" },
     { "name": "Working out" },
-    { "name": "Animals" },
+    { "name": "Video Games" },
     { "name": "Volleyball" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "Assembly" ]
     },
     {
       "name": "Toolsets/OS",
@@ -36,6 +36,15 @@
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
+      "endDate": "2024-05",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Texas State University, San Marcos, TX",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2024-08",
       "endDate": "Present",
       "courses": [
       ]
