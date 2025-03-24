@@ -20,7 +20,7 @@ For each piece of art that is included I allowed it so that when the user hovers
 
 There is also an "About Me" page that describes her, her goals, interests, and overall information about her. There is also a contacts page where users can visit her art profiles on instagram and any other platform she uses to advertise her art. On this page users are also able to send her emails and call her through her phone number as well. Overall just a page to contact her. 
 
-<img alt="picture" src="../img/portfolioContact.png" >
+<img width="1000px" src="../img/portfolioContact.png" >
 
 I included a piece of sample code providing how I implemented the popup descriptions on the images down below. 
 
