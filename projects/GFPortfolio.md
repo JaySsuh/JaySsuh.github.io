@@ -15,6 +15,7 @@ summary: "An art portfolio website for my girlfriend."
 ---
 
 <img width="1000px" src="../img/portfolioHome.png">
+
 For this project I decided to make an art portfolio website for my wonderful girlfriend. For the website I included each type of art she creates and separated them into their own sections. For the main home page I decided to include every single art piece in a single page, and then separate them by topic afterward.
 
 For each piece of art that is included I allowed it so that when the user hovers over the image with their cursor, a popup appears and shows the title of the piece as well as a brief description of the piece of art. The popup disappears when the user moves their cursor off of the image so that it isn't blocking their view of the work.
