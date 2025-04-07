@@ -34,4 +34,4 @@ I included a piece of sample code providing how I implemented the popup descript
         </div>
       </div>
       
-Link to portfolio Github https://github.com/JaySsuh/jazzPortfolio
+Link to [art portfolio Github](https://github.com/JaySsuh/jazzPortfolio)
