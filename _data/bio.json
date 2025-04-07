@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "Assembly" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "Assembly", "SQL", "PowerBI", "React", "Meteorjs", "Data Modeling", "Data Visualization", "Data Cleansing", "Predictive Algorithms" ]
     },
     {
       "name": "Toolsets/OS",
