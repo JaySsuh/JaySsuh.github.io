@@ -4,7 +4,7 @@ type: essay
 title: "software end is nearing"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-09
-published: true
+published: false
 labels:
   - software engineering
   - Coding
