@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/chatbot.png
 title: "chatbot"
-date: 2024
+date: 2025
 published: true
 labels:
   - computer programming
