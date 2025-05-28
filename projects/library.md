@@ -4,7 +4,7 @@ type: project
 image: img/library.jpg
 title: "Library"
 date: 2024
-published: true
+published: false
 labels:
   - computer programming
   - C++
