@@ -4,7 +4,7 @@ type: project
 image: img/hotel1.jpg
 title: "Hotel Management"
 date: 2024
-published: false
+published: true
 labels:
   - computer programming
   - C++
